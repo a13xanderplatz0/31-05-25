@@ -10,8 +10,8 @@ directo <>(tiempo de compilacion)
 -medio
 -promedio
 -------------tarea-----------
-rectangulo = bxh-------> for 
-circulo=    ----->for
+rectangulo = bxh-------> fc
+circulo=    ----->fc
 solo 3 parametros :
 ejecutec(puntero funcion,#int array parametro,array de nombres){
 area del <<NOMBRE_FIGURA<<;
